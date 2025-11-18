@@ -100,7 +100,7 @@ type User = { name: string };
 type User = { age: number }; // ❌ Error
 ```
 
-### 🟦 3. **Primitive, Union, Tuple ইত্যাদি**
+### c. **Primitive, Union, Tuple ইত্যাদি**
 
 Type alias বেশি flexible: primitive, union, tuple, function ইত্যাদি define করা যায়।
 
